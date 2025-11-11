@@ -8,8 +8,6 @@ Este proyecto incluye el análisis morfométrico de una cuenca hidrográfica, ap
 
 ## Contenido
 - `Practica05.ipynb`: Notebook con todos los cálculos y análisis.
-- `cuenca_san_cristobal.png`: Dibujo del delineado de la cuenca.
-- `README.md`: Descripción general del proyecto.
 
 ## Resultados destacados
 - Densidad de drenaje: **1.50 km/km²**
