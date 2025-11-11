@@ -1,4 +1,4 @@
-# Práctica 5 - Geomorfología Fluvial y Morfometría de Cuencas 🌊
+# Práctica 5 - Geomorfología Fluvial y Morfometría de Cuencas
 
 **Autora:** Ruth Philippe  
 **Materia:** Geomorfología (UASD)  
